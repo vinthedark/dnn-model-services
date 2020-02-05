@@ -12,3 +12,5 @@ message Output {
 service VideoActionRecognition {
     rpc video_action_recon(Input) returns (Output) {}
 }
+
+
